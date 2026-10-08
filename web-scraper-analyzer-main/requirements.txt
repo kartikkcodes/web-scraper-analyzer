@@ -1,0 +1,7 @@
+streamlit
+aiohttp
+beautifulsoup4
+fake-useragent
+pandas
+matplotlib
+lxml
